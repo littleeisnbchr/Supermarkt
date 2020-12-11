@@ -1,0 +1,16 @@
+﻿number;Lebensmittel;Herkunft;Januar;Februar;März;April;Mai;Juni;Juli;August;September;Oktober;November;Dezember
+1;Artischocke ;Nordafrika ;2;2;2;2;8;8;8;8;8;8;2;2
+2;Aubergine   ;Asien;1;1;1;1;1;3;3;3;3;3;1;1
+3;Avocado     ;Suedamerika;;;;;;;;;;;;
+4;Brokkoli    ;Kleinasien;1;1;1;1;1;3;3;3;3;3;1;1
+5;Champignons ;Europa;11;11;11;11;11;11;11;11;11;11;11;11
+6;Chinakohl   ;Polen;8;8;5;5;8;8;8;8;8;8;8;8
+7;Gurke       ;Spanien;3;3;3;3;8;8;8;8;3;3;3;3
+8;Karotte     ;Holland ;7;7;7;7;7;9;9;9;9;9;7;7
+9;Kartoffel   ;Deutschland;12;12;12;12;12;12;12;12;12;12;12;12
+10;Kuerbis     ;Deutschland;10;10;10;5;5;5;5;12;12;12;12;10
+11;Mais        ;Chile;1;1;1;1;1;5;5;5;5;5;1;1
+12;Paprika     ;Niederlande ;3;3;3;3;3;3;8;8;8;8;3;3
+13;Spargel     ;Oesterreich;5;5;5;12;12;12;5;5;5;5;5;5
+14;Tomate      ;Deutschland ;5;5;5;5;5;12;12;12;12;12;5;5
+15;Zucchini    ;Europa;8;8;8;8;8;11;11;11;11;11;8;8
